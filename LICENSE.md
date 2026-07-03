@@ -1,4 +1,4 @@
-# 
+# Último GitMind paquete. Descarga e instala con bajo uso de recursos y procesamiento por lotes — rápido, seguro y fácil de usar.
 
 
 
